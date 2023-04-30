@@ -1,1 +1,1 @@
-# Computer Vision Homework 1
+# cs231n-computer-vision-hw1
